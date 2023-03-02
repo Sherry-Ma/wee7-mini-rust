@@ -1,7 +1,7 @@
 # Week7 mini rust project -- String Manipulator
 This mini project is a command line tool that manipulate strings
 
-To run the program, compile it with rustc: `rustc string_manipulator.rs`
+To run the program, compile it with rustc command: `rustc string_manipulator.rs`
 
 This will create an executable file named string_manipulator. You can then run the program and provide a string to manipulate:
  
